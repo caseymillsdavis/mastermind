@@ -1,0 +1,26 @@
+Es gibt ein Brettspiel.
+Es heißt Mastermind.
+
+Dieses Spiel war sehr Bekannt in der Weihnachtszeit 1975.
+Mein Bruder und ich habe es als Kindern im Haus unsere Urgroßmutter gespielt.
+
+Mein Bruder hat mich letzten Sommer wieder herangeführt weil das Spiel
+auf seinem Nintendo Switch verfugbar war.
+
+Normaleweiße spielen zwei Leute.
+
+Der Codemaker wählt einen versteckten Code aus.
+Der anderer hat acht Vermutungen es zu erraten.
+
+Der Code wird aus sechs verschiedene Farben ausgewählt in einer bestimmten
+Reihenfolge.
+
+(Die verfugbare Farben sind festgelegt.
+Zahlen würden auch reichen, zum beispiel eins bis sechs.)
+
+Nach jedem Vermutung gibt der Codemaker eine Antwort zurück.
+Diese Antwort hat zwei Zahlen.
+Die eine zählt die weißen Treffer: die Zahl der Stellen worauf die Vermutung
+recht hat.
+Die andere zählt die schwarzen Treffer: die Zahl der Stellen worauf die
+Vermutung die richtige Farben hat aber nicht in den richtigen Stellen.
